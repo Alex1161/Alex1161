@@ -21,5 +21,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex1161&layout=compact&langs_count=10&count_private=true&show_icons=true&theme=dark)](https://github.com/Alex1161/github-readme-stats)
 
-
 [linkedin]: https://linkedin.com/in/gabriel-alexander-arbieto-benites-1b534b208

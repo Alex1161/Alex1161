@@ -16,8 +16,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Alex1161's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Alex1161&show_icons=true&hide_border=true" />
+  <img align="left" alt="Alex1161's GitHub Stats" src="https://github-readme-stats.alex1161.vercel.app/api?username=Alex1161&show_icons=true&hide_border=true" />
 
 </details>
 
-[linkedin]: https://linkedin.com/in/gabriel-alexander-arbieto-benites
+[linkedin]: https://linkedin.com/in/gabriel-alexander-arbieto-benites-1b534b208

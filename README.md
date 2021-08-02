@@ -15,11 +15,11 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex1161&count_private=true&show_icons=true&theme=dark)](https://github.com/Alex1161/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex1161&count_private=true&langs_count=10&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/Alex1161/github-readme-stats)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex1161&layout=compact&count_private=true&show_icons=true&theme=dark)](https://github.com/Alex1161/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex1161&layout=compact&langs_count=10&count_private=true&show_icons=true&theme=dark)](https://github.com/Alex1161/github-readme-stats)
 
 
 [linkedin]: https://linkedin.com/in/gabriel-alexander-arbieto-benites-1b534b208

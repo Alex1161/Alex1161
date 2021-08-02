@@ -13,6 +13,6 @@
 <br />
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex1161)](https://github.com/Alex1161/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex1161&count_private=true&show_icons=true?theme=dark)](https://github.com/Alex1161/github-readme-stats)
 
 [linkedin]: https://linkedin.com/in/gabriel-alexander-arbieto-benites-1b534b208

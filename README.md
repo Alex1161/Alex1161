@@ -2,7 +2,7 @@
 
 ## I'm a Student of University of Buenos Aires
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything about Frontend app like React, Javascript, ect.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen music and play guitar
 

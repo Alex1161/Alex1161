@@ -5,14 +5,14 @@
 - 🌱 I’m currently learning everything about Frontend app like React, Javascript, ect.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen music and play guitar
+<!---
+### Connect with me:
 
-[//]: <> ### Connect with me:
-
-[//]: <> [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 <br />
-
+-->
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex1161&count_private=true&langs_count=10&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/Alex1161/github-readme-stats)
